@@ -2,7 +2,7 @@ import '@fortawesome/fontawesome-free/css/all.min.css';
 
 export const Footer = () => {
     return (
-        <footer className="bg-success text-white text-center text-lg-start">
+        <footer className="bg-success text-white text-center text-lg-start" style={{position : "fixed" , bottom : "0px" , width: "100%"}} >
             <div className="container p-4">
                 <div className="row">
                     <div className="col-lg-6 col-md-12 mb-4 mb-md-0">
