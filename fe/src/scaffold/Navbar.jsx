@@ -1,4 +1,3 @@
-import {Mozaik} from "../home/Mozaik.jsx";
 
 export const Navbar = () => {
     return (
